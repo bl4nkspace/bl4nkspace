@@ -3,7 +3,7 @@
 # 💫 About Me:
 I like:
 - 🖥programming
-- 🤖robotics*
+- 🤖robotics
 - ➗maths
 - ⚖️physics
 
